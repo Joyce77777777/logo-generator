@@ -4,6 +4,9 @@
 
 This Logo Generator is a command-line Node.js application that enables users to create simple logos with customizable text, colors, and shapes. It's designed for freelance web developers who need quick, basic logos for their projects without the need for extensive graphic design. Users can select from a variety of shapes (circle, triangle, square), set colors for both text and shape, and input a short text (up to three characters) to be displayed on the logo. The output is an SVG file that can be used in web projects or further edited in graphic design software.
 
+## Video Demo
+A video walkthrough of the functionalities of this app is viewable here: https://drive.google.com/file/d/1ijrtsWRxijGk9zx4w8azoXukSlWNdjho/view
+
 ## Setup
 
 To set up this application, follow these steps:
@@ -48,3 +51,6 @@ To use the application, follow these steps:
 
 3. **View the Generated Logo**:
    After inputting all details, the application will generate an SVG file named `logo.svg` in the `examples` directory. You can open this file in a web browser to view your logo or import it into a graphic design tool for further editing.
+
+## Repo
+This repo is avaliable here: https://github.com/Joyce77777777/logo-generator
